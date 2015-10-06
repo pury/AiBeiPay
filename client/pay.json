@@ -1,0 +1,10 @@
+{
+    "name": "pay",
+    "dependence": ["core"],
+    "source":"./",
+    "file_list": [
+        "aibei_v1.js",
+        "pay.js",
+        "pay.d.ts"
+    ]
+}
