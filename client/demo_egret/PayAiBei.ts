@@ -19,7 +19,7 @@
             APay.Order.setDataRetFunc(this.payBack);
         }
 		
-		//--------------------------------------------------------------------------------
+	//--------------------------------------------------------------------------------
         public static pay(userid, money): void
         {
             APay.Order.pay(userid, money);
