@@ -3,7 +3,7 @@
     export class PayAiBei{
 
         public constructor() 
-		{
+	{
 
         }
 
