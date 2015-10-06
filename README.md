@@ -3,7 +3,7 @@ AiBei Pay Plug-in
 
 iapppay HTML5 version: http://www.iapppay.com/g-h5res.html
 
-##client##
+#client
 
 aibei_v1.js --- iapppay HTML5 Plug-in
 pay.js      --- library
